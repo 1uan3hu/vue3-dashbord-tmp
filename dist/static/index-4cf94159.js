@@ -1,0 +1,1 @@
+import{_ as o}from"./index-ed6f429e.js";import{l as e,m as r}from"./vue-9c71d355.js";import"./element-458df6a2.js";import"./vxe-6d5d632a.js";const t={},c={class:"app-container"};function n(s,a){return e(),r("div",c," dashbord ")}const d=o(t,[["render",n]]);export{d as default};
